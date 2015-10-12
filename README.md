@@ -3,4 +3,4 @@
 
 Nothing much to explain here. :)
 
-Will be used soonish™ on niklasmeyer.de
+Will be used soonish™ on [niklasmeyer.de](http://niklasmeyer.de "niklasmeyer.de").
